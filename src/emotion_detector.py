@@ -1,3 +1,4 @@
+#Emation detection module using FER library
 from fer import FER
 import cv2
 import numpy as np

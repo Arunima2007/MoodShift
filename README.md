@@ -32,7 +32,7 @@ MoodShift is an AI-powered web application that recommends music based on a user
 
 ---
 
-## 🧠 How the Recommendation Engine Works
+## 🧠 How the Recommendation Engine Works?
 
 Most emotion-based music recommenders suggest songs that match the user's *current* mood, which can trap users in negative loops (e.g., playing sad songs when sad). MoodShift shifts your emotion using vector geometry:
 
